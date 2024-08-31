@@ -1,4 +1,4 @@
-Döngüler(while), koşullu ifadeler(if-elif-else) ve kullanıcı girişi gibi temel Python kurallarının uygulandığı ve PEP-8 kurallarına uyularak yazılmış basit bir taşi kağıt, makas oyunu!
+Döngüler(while), koşullu ifadeler(if-elif-else) ve kullanıcı girişi gibi temel Python kurallarının uygulandığı ve PEP-8 kurallarına uyularak yazılmış basit bir taş, kağıt, makas oyunu!
 Taş, kağıt,makas oyunu için bir fonksiyon oluşturduk. 
 Oyun birden fazla turdan oluşmakta olup toplam 2 galibiyete ulaşan ilk taraf(kullanıcı veya bilgisayar) oyunu kazanıyor.
 Her oyun ardından kullanıcı ve bilgisayardan her birine başka bir oyun oynamak isteyip istenmediği sorulmakta olup her iki taraf da olumlu geri dönüt verdiği taktirde oyun tekrarlanmaktadır.
